@@ -9,4 +9,4 @@
 ~ Navigate rotationally by dragging with your mouse or trackpad!
 
 ## AR and VR HMDs
-~ Automatic detection of HMD usage will allow you to simply walk around (translocational movement) or rotate your head (rotaional movement) in order to explore!
+~ Automatic detection of HMD usage will allow you to simply walk around (translocational movement) or rotate your head (rotational movement) in order to explore!
