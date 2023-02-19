@@ -2,7 +2,7 @@
 ## For a fun web-based AR/VR experience on my personal website!
 
 ## Mobile Devices
-~ Navigate to the url and you'll be able to utilize the translocational and rotational movement of your phone to 'walk around' in the experience.
+~ Navigate to the url and you'll be able to utilize the translocational and rotational movement of your phone to 'walk around' in the experience!
 
 ## Desktops and Laptops
 ~ Navigate translocationally using your keys (WASD or arrow keys)
