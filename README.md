@@ -1,5 +1,5 @@
 # [AshleyinVR](https://ashleyinvr.glitch.me)
-## For a fun web-based AR/VR experience on my [personal website]([aneall.github.io](https://aneall.github.io/)!
+## For a fun web-based AR/VR experience on my [personal website](https://aneall.github.io/)!
 
 ## Mobile Devices
 ~ Navigate to the url and you'll be able to utilize the translocational and rotational movement of your phone to 'walk around' in the experience!
